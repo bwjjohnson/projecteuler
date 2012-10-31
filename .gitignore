@@ -1,1 +1,5 @@
-
+.ropeproject
+.pydevproject
+.project
+*.pyc
+*.py~
